@@ -1,6 +1,5 @@
 # unix1-cheetsheet
 <<<<<<< HEAD
-testの答え一覧
 =======
 # test
 # let's do our best
